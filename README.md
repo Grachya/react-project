@@ -1,2 +1,2 @@
 # react-project
-Еhis is a react learning project
+This is a react learning project
